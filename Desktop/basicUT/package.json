@@ -1,0 +1,26 @@
+{
+  "name": "basicut",
+  "version": "1.0.0",
+  "description": "An Angular Application that demonstrates how to use karma and jasmine for front-end unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elahsoft/Front-End-Unit-Testing--Karma-Jasmine-Angular.git"
+  },
+  "keywords": [
+    "angularjs",
+    "karma",
+    "jasmine",
+    "testing",
+    "front-end"
+  ],
+  "author": "OPARA FEBECHUKWU CHINONYEREM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elahsoft/Front-End-Unit-Testing--Karma-Jasmine-Angular/issues"
+  },
+  "homepage": "https://github.com/elahsoft/Front-End-Unit-Testing--Karma-Jasmine-Angular#readme"
+}
